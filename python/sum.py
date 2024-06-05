@@ -7,7 +7,7 @@ num2 = input("두번째 값을 입력해주세요. : ")
 num1 = int(num1)
 num2 = int(num2)
 
-# 다음 해의 나이를 계산합니다.
+# 두 값을 더하기
 sum = num1 + num2
 
 # 결과를 출력합니다.
